@@ -1,0 +1,133 @@
+/*
+header div header span
+{
+   position: relative;
+   margin-top: -25px;
+
+
+}*/
+
+
+.menu li
+{
+    position: relative;
+   list-style: none;
+   float:right;
+   margin-top: -25px;
+   list-style: none;
+   padding: 4px;
+    
+
+
+
+}
+
+
+ 
+
+
+#titulo_seccion_inicio
+{
+  margin-left: 200px;
+  margin-top: 400px;
+  text-align: center;
+  font-family: 'Lato',sans-serif;
+  color:#cfcfcf;
+
+ 
+}
+
+#Amarillo
+{
+
+	color: yellow;
+}
+
+*{margin:0px;
+   padding: 0px;}
+
+#seccion_inicio
+{
+        
+	background-image: url("../images/lala.jpg");
+	 background-size: initial;
+	 height: 912px ;
+	 background-attachment: fixed;
+	/*background-position-x: center;
+    background-position-y: center;
+   
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: fixed;*/
+   
+    /*background-origin: initial;
+    background-clip: initial;
+    background-color: initial;*/
+}
+
+
+
+#cabecera
+{   padding-bottom: 0px;
+	font-family: 'Lato', sans-serif;
+    color:#cfcfcf;
+}
+
+#texto
+{
+    			float: right;
+    		   /*border-top-style: dashed;
+               border-right-style: dashed ; 
+               border-bottom-style: dashed;
+               border-left-style:dashed ;  */
+               margin-right: 0px; 
+               width: 640px;
+               height: 340px;
+               font-family: 'Lato', sans-serif;
+              /* color:#cfcfcf;*/
+
+               
+              
+}
+
+#imagenSegundoPanel
+{              
+               border-top-style: dashed;
+               border-right-style: dashed; 
+               border-bottom-style: dashed;
+               border-left-style:dashed;  
+                float:left;
+               width: 640px;
+               height: 340px;
+              /* margin-left: 120px;*/
+               /*margin-right: 120px;*/
+
+}
+
+
+
+
+.button
+{   margin-top: 0px;
+	margin-bottom: 30px;
+   background-color: orange;
+   margin-left: 40px;
+  height: 7px;
+  width: 80px;
+
+}
+
+#parrafo
+{
+  margin-left: 40px;
+
+
+}
+
+#listaSegunda
+{  padding-top: 10px;
+   list-style: circle;
+   padding-left: 60px;
+   color:#333;	
+
+}
